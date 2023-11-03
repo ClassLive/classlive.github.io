@@ -1,0 +1,15 @@
+{
+    "0": {
+        "id": "Localhost",
+        "url": "ws://127.0.0.1:3000/"
+    },
+    "1": {
+        "id": "CL4 0.2.0 Public Server (New domain, same as server 2)",
+        "url": "wss://cloudlink.mikedev101.cc/0.2.0"
+    },
+  },
+    "2": {
+        "id": "ClassLive",
+        "url": "wss://classlive-server.nmsderp.repl.co/"
+    },
+}
